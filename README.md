@@ -1,0 +1,1 @@
+# -smart-farming-Systematic-Approach-data-management-system
